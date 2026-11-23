@@ -1330,28 +1330,12 @@
       "duracion": 160.9
     },
     {
-      "titulo": "El granjero",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20granjero.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20granjero.jpg",
-      "letra": "",
-      "duracion": 196.6
-    },
-    {
       "titulo": "El negro de la feria",
       "ritmo": "Cumbia",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20negro%20de%20la%20feria.mp3",
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20negro%20de%20la%20feria.jpg",
       "letra": "",
       "duracion": 214
-    },
-    {
-      "titulo": "El tío Nano",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/El%20t%C3%ADo%20Nano.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20t%C3%ADo%20Nano.jpg",
-      "letra": "",
-      "duracion": 189.3
     },
     {
       "titulo": "En el barrio",
@@ -1376,14 +1360,6 @@
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Frena%20compadre.jpg",
       "letra": "",
       "duracion": 172.9
-    },
-    {
-      "titulo": "La reina del barrio",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/La%20reina%20del%20barrio.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20reina%20del%20barrio.jpg",
-      "letra": "",
-      "duracion": 178.1
     },
     {
       "titulo": "Me enamoré",
@@ -1442,36 +1418,12 @@
       "duracion": 166.9
     },
     {
-      "titulo": "Tres peldaños",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Tres%20pelda%C3%B1os.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Tres%20pelda%C3%B1os.jpg",
-      "letra": "",
-      "duracion": 148.1
-    },
-    {
-      "titulo": "Viejito uñas rojas",
-      "ritmo": "Cumbia",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Cumbia/Viejito%20u%C3%B1as%20rojas.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Viejito%20u%C3%B1as%20rojas.jpg",
-      "letra": "",
-      "duracion": 167
-    },
-    {
       "titulo": "Déjala ir",
       "ritmo": "Salsa",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/D%C3%A9jala%20ir.mp3",
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/D%C3%A9jala%20ir.jpg",
       "letra": "",
       "duracion": 187.5
-    },
-    {
-      "titulo": "El abuelo",
-      "ritmo": "Salsa",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/El%20abuelo.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20abuelo.jpg",
-      "letra": "",
-      "duracion": 195
     },
     {
       "titulo": "El vecino sapo",
@@ -1512,30 +1464,6 @@
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Por%20el%20puente.jpg",
       "letra": "",
       "duracion": 193.1
-    },
-    {
-      "titulo": "retiembla !",
-      "ritmo": "Salsa",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/retiembla%20!.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/retiembla%20!.jpg",
-      "letra": "",
-      "duracion": 231.5
-    },
-    {
-      "titulo": "Somos cinco",
-      "ritmo": "Salsa",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Somos%20cinco.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Somos%20cinco.jpg",
-      "letra": "",
-      "duracion": 219.1
-    },
-    {
-      "titulo": "Travesuras en los 60s",
-      "ritmo": "Salsa",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Salsa/Travesuras%20en%20los%2060s.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Travesuras%20en%20los%2060s.jpg",
-      "letra": "",
-      "duracion": 339.3
     },
     {
       "titulo": "Radio-Tango",
@@ -1762,46 +1690,6 @@
       "duracion": 138.1
     },
     {
-      "titulo": "El chancho que quería ser elegante",
-      "ritmo": "Infantil",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Infantil/El%20chancho%20que%20quer%C3%ADa%20ser%20elegante.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20chancho%20que%20quer%C3%ADa%20ser%20elegante.jpg",
-      "letra": "",
-      "duracion": 152.3
-    },
-    {
-      "titulo": "El loro se tomó la escuela",
-      "ritmo": "Infantil",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Infantil/El%20loro%20se%20tom%C3%B3%20la%20escuela.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20loro%20se%20tom%C3%B3%20la%20escuela.jpg",
-      "letra": "",
-      "duracion": 158.8
-    },
-    {
-      "titulo": "El pajarito que voló",
-      "ritmo": "Infantil",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Infantil/El%20pajarito%20que%20vol%C3%B3.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/El%20pajarito%20que%20vol%C3%B3.jpg",
-      "letra": "",
-      "duracion": 130.4
-    },
-    {
-      "titulo": "La gallina Marcelina",
-      "ritmo": "Infantil",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Infantil/La%20gallina%20Marcelina.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20gallina%20Marcelina.jpg",
-      "letra": "",
-      "duracion": 144.7
-    },
-    {
-      "titulo": "La luna se quedó dormida",
-      "ritmo": "Infantil",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Infantil/La%20luna%20se%20qued%C3%B3%20dormida.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/La%20luna%20se%20qued%C3%B3%20dormida.jpg",
-      "letra": "",
-      "duracion": 150.7
-    },
-    {
       "titulo": "Corazón del Desierto",
       "ritmo": "Latina",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Latina/Coraz%C3%B3n%20del%20Desierto.mp3",
@@ -1842,18 +1730,18 @@
       "duracion": 112.3
     },
     {
-      "titulo": "Salta la vida en la montaña (fusión)",
-      "ritmo": "Latina",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Latina/Salta%20la%20vida%20en%20la%20monta%C3%B1a%20(fusi%C3%B3n).mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Salta%20la%20vida%20en%20la%20monta%C3%B1a%20(fusi%C3%B3n).jpg",
-      "letra": "",
-      "duracion": 209.1
-    },
-    {
       "titulo": "Salta la vida en la montaña",
       "ritmo": "Latina",
       "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Latina/Salta%20la%20vida%20en%20la%20monta%C3%B1a.mp3",
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Salta%20la%20vida%20en%20la%20monta%C3%B1a.jpg",
+      "letra": "",
+      "duracion": 209.1
+    },
+    {
+      "titulo": "Salta la vida en la montaña (fusión)",
+      "ritmo": "Latina",
+      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Latina/Salta%20la%20vida%20en%20la%20monta%C3%B1a%20(fusi%C3%B3n).mp3",
+      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Salta%20la%20vida%20en%20la%20monta%C3%B1a%20(fusi%C3%B3n).jpg",
       "letra": "",
       "duracion": 209.1
     },
@@ -1864,14 +1752,6 @@
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Sangre%20antigua.jpg",
       "letra": "",
       "duracion": 280.8
-    },
-    {
-      "titulo": "Bomberos de Chile ",
-      "ritmo": "Orquesta",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Orquesta/Bomberos%20de%20Chile%20.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Bomberos%20de%20Chile.jpg",
-      "letra": "",
-      "duracion": 181
     },
     {
       "titulo": "Epílogo",
@@ -1904,14 +1784,6 @@
       "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Esperando.jpg",
       "letra": "",
       "duracion": 185.9
-    },
-    {
-      "titulo": "Estoy esperando",
-      "ritmo": "Orquesta",
-      "archivo": "https://raw.githubusercontent.com/altimiras/Z/main/Mp3/Orquesta/Estoy%20esperando.mp3",
-      "caratula": "https://raw.githubusercontent.com/altimiras/Radio/main/imagenes/Estoy%20esperando.jpg",
-      "letra": "",
-      "duracion": 194.4
     },
     {
       "titulo": "Abuela Olga",
